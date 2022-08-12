@@ -1,0 +1,418 @@
+*,
+*::before,
+*::after{
+
+}
+header{
+    width: 1300px;
+    display: flex;
+    margin: 0 auto;
+    height: 61px;
+    left: 71px;
+    top: 454px;
+}
+
+
+.container{
+    width: 1300px;
+    margin: 0 auto;
+ 
+   
+}
+.header_nav{
+    position: relative;
+    display: flex;
+   
+    justify-content: space-between;
+    align-items: center;
+}
+.haeder_logo{   
+    display: flex;
+
+    width: 58.11px;
+    height: 20px;
+    left: 98px;
+    top: 18px;
+}
+.header_list{
+    display: flex;
+    justify-content: space-between;  
+   margin-left: 220px;
+}
+.header_item{
+    display: flex;
+    align-items: center;
+    margin-right: 35px;
+}
+.header_linklinkactive{
+   background-color:  #191919 70%;
+   
+    
+}
+.header_link{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-decoration: none;   
+}
+.phone{
+    padding: 8 16;
+    background-color: blue;
+   
+}
+.xizmat_link :hover{
+    
+background: rgba(0, 186, 252, 0.8);
+border-radius: 5px;
+}
+.xizmat_link :active{
+    background: rgba(0, 186, 252, 0.6);
+border-radius: 5px;
+}
+
+
+main{
+    width: 1300px;
+    height: 100%;
+    margin: 0 auto;
+}
+.sect1{
+    width: 1300px;
+    display: flex;
+    margin: 0 auto;
+    padding-top: 100px;
+}
+
+.box{
+    display: flex;
+    width: 1300px;
+    margin: 0 auto;
+}
+.left{
+    flex: 6;
+    width: 490px;
+    height: 222px;
+    margin-left: 90px;  
+}
+.xizmat_title{
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 130%;
+    color: #000000;
+}
+ .xizmat_text{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+ }   
+ .xizmat_link{
+    display: inline-block;
+    padding: 8 16;
+    border: 1px solid #00BAFC;
+ }
+.right{
+    flex: 6;
+   
+}
+.you_tube{
+    width: 458px;
+    height: 258px;
+    right: 100px;
+    top: calc(50% - 258px/2);
+    border-radius: 5px;
+}
+.sect2{
+    width: 1300px;
+    display: flex;
+    margin: 0 auto;
+
+}
+.sect2_title{
+    width: 719px;
+    margin-left: 150px;
+    align-items: center;
+    text-align: center;
+}
+.bok_title{
+    font-weight: 700;
+font-size: 24px;
+line-height: 130%;
+text-align: center;
+color: #000000;
+justify-content: center;
+align-items: center;
+}
+.bok_text{
+    font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+text-align: center;
+color: #000000;
+}
+.website{
+    display:contents;
+
+   
+}
+.ul-1{
+    margin-top: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.ul-2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sec-2-main{
+    width: 1100px;
+    margin: 0 auto;
+    height: 576px ;
+}
+.box1{
+    margin: 0 20;
+    width: 320px;
+    height: 260px;
+    left: 100px;
+    top: 8px;
+    text-align: center;
+    background: #FFFFFF;
+    box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+.box3{
+    padding-top: 50px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.box2{
+    width: 320px;
+    height: 260px;
+    left: 100px;
+    top: 8px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background: #FFFFFF;
+    box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+.web_fot{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin-left: 340px;
+    margin-top: 50px;
+}
+.link1 :hover{
+    padding: 8 16;
+}
+.link2{
+   
+}
+.header_item :hover{
+    border-bottom: 1px solid #000;;
+}
+.header_item :active{
+    background: rgba(25, 25, 25, 0.7);
+}
+.sect{
+    width: 1300px;
+    display: flex;
+    margin: 0 auto;
+}
+.phone:hover{
+    background: white;
+    border-radius: 5px;
+    
+}
+
+
+.intro_title{
+    text-align: center;
+    margin-top: 400px;
+    margin-left: 240px;
+}
+.center_title{
+    font-weight: 700;
+font-size: 24px;
+line-height: 130%;
+text-align: center;
+color: #000000;
+}
+.center_text{
+    font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+text-align: center;
+color: #000000;
+}
+
+.img_left{
+
+    align-items: center;
+}
+.sec-4-main{
+    display: flex;
+    justify-content: center;
+}
+.text_right{
+    margin-top: 100px;
+}
+.img_left2{
+    margin-left: 60px;
+}
+.sect6{
+    width: 1300px;
+    display: flex;
+    margin: 0 auto;
+}
+.sect6_img{
+    margin-left: 200px;
+}
+.sec7{
+    margin-top: 40px;
+}
+.sect8{
+    width: 1300px;
+    background-color: #00BAFC;
+    align-items: center;
+}
+.sect8_title{
+    text-align: center;
+    padding-top: 15px;
+}
+.sect8_text{
+    font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+text-align: center;
+color: #FFFFFF;
+}
+.input{
+    text-align: center;
+    justify-content: space-between;
+}
+.input{
+    font-size: 10px;
+   margin-left: 450px;
+flex-direction: column;
+align-items: center;
+padding: 24px;
+gap: 16px;
+
+width: 348px;
+height: 204px;
+justify-content: center;
+align-items: center;
+background: #FFFFFF;
+border-radius: 5px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+    
+}
+.innn{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 16px;
+    
+    width: 300px;
+    height: 56px;
+    
+    /* light-grey */
+    
+    background: #F3F3F3;
+    border-radius: 5px;
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+.buyurtma{
+    background: #00BAFC;
+border-radius: 5px;
+size: 100px;
+}
+footer{
+    width: 1300px;
+    height: 338px;
+    margin: 0 auto;
+    margin-top: 2340px;
+}
+.foter{
+    width: 1300px;
+    height: 338px;
+    
+    background:  #191919;;
+}
+.fot_tit{
+    font-weight: 700;
+font-size: 20px;
+line-height: 130%;
+/* identical to box height, or 26px */
+
+
+color: #FFFFFF;
+
+}
+.fot_text{
+    font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+color: #FFFFFF;
+}
+.futer{
+    display: flex;
+    justify-content: space-between;
+}
+.fot_title{
+    margin-left: 90px;
+}
+.sayt{
+    margin-right: 150px;
+}
+.sayt_title{
+    
+    font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 130%;
+color: #FFFFFF;
+}
+.sayt_text{
+    font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #FFFFFF;
+}
+.font{
+    margin-right: 150px;
+
+}
+.net{
+    font-weight: 700;
+font-size: 20px;
+line-height: 130%;
+/* identical to box height, or 26px */
+
+
+color: #FFFFFF;
+
+}
+.tfi{
+    
+    font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #FFFFFF;
+    display: flex;
+}
